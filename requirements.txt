@@ -6,3 +6,7 @@ scikit-learn
 nltk
 textblob
 transformers
+pandas
+matplotlib
+seaborn
+torch
