@@ -1,0 +1,7 @@
+telethon
+flask
+aiohttp
+pytz
+scikit-learn
+nltk
+textblob
